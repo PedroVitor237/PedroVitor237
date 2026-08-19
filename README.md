@@ -1,22 +1,6 @@
-<!--
-## Hi there 👋
-
-**PedroVitor237/PedroVitor237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Pedro Vitor 👋
 
-I'm an Analysis and Systems Development student focused on web development, with a particular interest in frontend and full-stack applications.
+I'm an Undergraduate student in Systems Analysis and Development focused on web development, with a particular interest in frontend and full-stack applications.
 
 I mainly work with **React, TypeScript, TanStack Start, and modern web technologies**, while also exploring backend development and database-driven applications.
 
@@ -29,24 +13,27 @@ I mainly work with **React, TypeScript, TanStack Start, and modern web technolog
 * **TanStack Start**
 * **Next.js**
 
+### Backend & Data
+
+* **Prisma**
+* **PostgreSQL**
+* **MySQL**
+* **Spring Boot**
+
 ### Also Working With
 
 * JavaScript
 * Tailwind CSS
-* Prisma
-* PostgreSQL
 * Java
-* Spring Boot
 * Python
 * Django
-* MySQL
 * Git & GitHub
 
 ## Featured Project
 
-### 🔎 Safe Watch Insight
+### 🔎 [Safe Watch Insight](https://github.com/PedroVitor237/safe-watch-insight)
 
-A web platform developed for my TCC to support **occupational safety and health (SST) inspections, audits, and compliance activities**.
+A web platform developed as part of my undergraduate thesis (TCC) to support **occupational safety and health (OSH) inspections, audits, and compliance activities**.
 
 I am responsible for the software development of the platform, working on its implementation, technical decisions, and development workflow.
 
@@ -56,25 +43,19 @@ I am responsible for the software development of the platform, working on its im
 
 The project includes authentication, CRUD workflows, checklist management, inspections, response persistence, layered architecture, and offline-oriented functionality.
 
-[→ View repository](https://github.com/PedroVitor237/safe-watch-insight.git)
-
 ## Other Projects
 
-### 📋 TaskManager ReactCourse
+### 📋 [TaskManager ReactCourse](https://github.com/PedroVitor237/TaskManager_ReactCourse)
 
 A React learning project focused on componentization, state management, routing, forms, and client-side persistence.
 
 `React` · `JavaScript` · `React Router` · `Tailwind CSS` · `Vite` · `LocalStorage`
 
-[→ View repository](https://github.com/PedroVitor237/TaskManager_ReactCourse)
-
-### 🏋️ ADONIS
+### 🏋️ [ADONIS](https://github.com/PedroVitor237/adonis)
 
 An academic management system for personal trainers and students, developed as part of my Database course.
 
 `Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `Thymeleaf` · `MySQL`
-
-[→ View repository](https://github.com/PedroVitor237/adonis)
 
 ## More Projects
 
@@ -88,7 +69,7 @@ An academic management system for personal trainers and students, developed as p
 
 I'm currently working as a scholarship/extension student on HidroFlorestas, an early-stage startup project selected through IFMA's PRPGI Call for Proposals No. 180/2025.
 
-I'm one of the people leading the development of the HidroFlorestas web platform, working across the full stack and contributing to important technical and technological decisions throughout the project.
+I'm one of the people leading the development of the HidroFlorestas web platform, working across the full stack and contributing to key technical and technological decisions throughout the project.
 
 `Next.js` · `React` · `TypeScript` · `Prisma` · `PostgreSQL` · `Python`
 
