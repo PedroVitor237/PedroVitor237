@@ -96,6 +96,6 @@ The platform is focused on the management and monitoring of water and forest res
 
 ## Let's Connect
 
-* [GitHub]([https://github.com/](https://github.com/PedroVitor237/PedroVitor237/edit/main/README.md))
+* [GitHub](https://github.com/PedroVitor237/)
 * [LinkedIn](https://www.linkedin.com/)
 * [Email](mailto:)
