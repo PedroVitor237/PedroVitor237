@@ -56,7 +56,7 @@ I am responsible for the software development of the platform, working on its im
 
 The project includes authentication, CRUD workflows, checklist management, inspections, response persistence, layered architecture, and offline-oriented functionality.
 
-[→ View repository](https://github.com/)
+[→ View repository](https://github.com/PedroVitor237/safe-watch-insight.git)
 
 ## Other Projects
 
@@ -66,7 +66,7 @@ A React learning project focused on componentization, state management, routing,
 
 `React` · `JavaScript` · `React Router` · `Tailwind CSS` · `Vite` · `LocalStorage`
 
-[→ View repository](https://github.com/)
+[→ View repository](https://github.com/PedroVitor237/TaskManager_ReactCourse)
 
 ### 🏋️ ADONIS
 
@@ -74,13 +74,13 @@ An academic management system for personal trainers and students, developed as p
 
 `Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `Thymeleaf` · `MySQL`
 
-[→ View repository](https://github.com/)
+[→ View repository](https://github.com/PedroVitor237/adonis)
 
 ## More Projects
 
-* **[Tourism_DJangoProject_ADP](https://github.com/)** — Academic Django project focused on registering and listing tourist attractions. `Python` · `Django` · `SQLite`
-* **[WebBasicsProjects](https://github.com/)** — A collection of small educational frontend projects covering HTML, CSS, JavaScript, DOM manipulation, browser APIs, and API consumption.
-* **[JavaScript](https://github.com/)** — A learning repository containing exercises, examples, and notes covering JavaScript fundamentals, DOM manipulation, events, functions, arrays, objects, and browser APIs.
+* **[Tourism_DJangoProject_ADP](https://github.com/PedroVitor237/Tourism_DJangoProject_ADP)** — Academic Django project focused on registering and listing tourist attractions. `Python` · `Django` · `SQLite`
+* **[WebBasicsProjects](https://github.com/PedroVitor237/WebBasicsProjects)** — A collection of small educational frontend projects covering HTML, CSS, JavaScript, DOM manipulation, browser APIs, and API consumption.
+* **[JavaScript](https://github.com/PedroVitor237/JavaScript)** — A learning repository containing exercises, examples, and notes covering JavaScript fundamentals, DOM manipulation, events, functions, arrays, objects, and browser APIs.
 
 ## Currently Working On
 
@@ -97,5 +97,5 @@ The platform is focused on the management and monitoring of water and forest res
 ## Let's Connect
 
 * [GitHub](https://github.com/PedroVitor237/)
-* [LinkedIn](https://www.linkedin.com/)
-* [Email](mailto:)
+* [LinkedIn](https://www.linkedin.com/in/pedro-vitor-dev)
+* [Email](pedrovitor.deva@gmail.com)
