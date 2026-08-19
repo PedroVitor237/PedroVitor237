@@ -45,7 +45,7 @@ The project includes authentication, CRUD workflows, checklist management, inspe
 
 ## Other Projects
 
-### 📋 [TaskManager ReactCourse](https://github.com/PedroVitor237/TaskManager_ReactCourse)
+### 📋 [TaskManager (ReactCourse)](https://github.com/PedroVitor237/TaskManager_ReactCourse)
 
 A React learning project focused on componentization, state management, routing, forms, and client-side persistence.
 
